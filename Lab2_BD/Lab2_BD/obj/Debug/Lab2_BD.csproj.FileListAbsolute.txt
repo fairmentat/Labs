@@ -1,0 +1,10 @@
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\bin\Debug\Lab2_BD.exe.config
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\bin\Debug\Lab2_BD.exe
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\bin\Debug\Lab2_BD.pdb
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.csprojAssemblyReference.cache
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.Form1.resources
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.Properties.Resources.resources
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.csproj.GenerateResource.cache
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.csproj.CoreCompileInputs.cache
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.exe
+C:\Users\VODN\Documents\Visual Studio 2017\Projects\Lab2_BD\Lab2_BD\obj\Debug\Lab2_BD.pdb
